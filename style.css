@@ -23,11 +23,15 @@ body{
     bottom: 50px;
 }
 button:hover{
-    border: 2px solid black;
+    /* border: 2px solid black; */
+    transform: scale(1.1);
 }
 button{
     align-items: baseline;
     
+}
+.li:hover{
+    transform: scale(1.1);
 }
 .card{
     /* border: 2px solid black ; */
